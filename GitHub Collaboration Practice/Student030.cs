@@ -9,10 +9,12 @@ namespace GitHub_Collaboration_Practice
 {
     internal class Student030
     {
+        public static void Howdy()
+        {
+
+
+        }
     }
-    public static void HelloWorld () {
-
-
-}
+   
 
 }
