@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GitHub_Collaboration_Practice;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,4 +10,9 @@ namespace GitHub_Collaboration_Practice
     internal class Student030
     {
     }
+    public static void HelloWorld () {
+
+
+}
+
 }
